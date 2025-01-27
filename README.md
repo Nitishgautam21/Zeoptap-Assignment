@@ -24,7 +24,7 @@ The repository consists of a single main branch and the following files and fold
 - **Nitish_Gautam_EDA.ipynb:** This Jupyter Notebook contains the Exploratory Data Analysis (EDA) for the provided dataset. It involves data cleaning, transformation, and visualization to understand key trends, relationships, and insights within the data.
   
 - **Nitish_Gautam_EDA.pdf:** This report presents key business insights from the Exploratory Data Analysis (EDA) of the dataset:
-  -Customer Segmentation: Identifying distinct customer groups based on RFM (Recency, Frequency, Monetory) Values.
+  - Customer Segmentation: Identifying distinct customer groups based on RFM (Recency, Frequency, Monetory) Values.
   - Regional Preferences: Analyzing product and category preferences by region.
   - Transaction Patterns: Observing trends in transaction and sales throughout year.
   - Product Popularity & Sales Trends: Tracking top-selling products and sales trends.
