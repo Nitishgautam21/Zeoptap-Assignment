@@ -5,4 +5,11 @@
 - **Provided Datasets:** Customers.csv, Products.csv and Transactions.csv
 
 ## Repository Structure
+├── Nitish_Gautam_Clustering.ipynb          # Clustering Jupyter Notebook
+├── Nitish_Gautam_Clustering.pdf            # Clustering Report
+├── Nitish_Gautam_EDA.ipynb                 # EDA Jupyter Notebook
+├── Nitish_Gautam_EDA.pdf                   # Business insights Report
+├── Nitish_Gautam_Lookalike.csv             # Lookalike csv file
+├── Nitish_Gautam_Lookalike.ipynb           # Lookalike Jupyter Notebook
+└── README.md                               # Project documentation
 
