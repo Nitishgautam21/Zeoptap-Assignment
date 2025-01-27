@@ -6,7 +6,13 @@
 
 ## Repository Structure
 The repository consists of a single main branch and the following files and folders:
-<pre> ├── data/ # Folder containing raw datasets │ ├── raw_data.csv # Example raw dataset file │ └── processed_data.csv # Example processed dataset file ├── src/ # Source code directory │ ├── __init__.py # Initialization file for the source code │ ├── main.py # Main script where the application runs │ └── utils.py # Utility functions used across scripts ├── notebooks/ # Jupyter notebooks for analysis │ ├── analysis.ipynb # Notebook for initial data analysis │ └── visualization.ipynb # Notebook for data visualization ├── README.md # Project overview and documentation ├── requirements.txt # List of dependencies required to run the project └── LICENSE # The license information for the repository </pre>
+- **`├──`** Nitish_Gautam_Clustering.ipynb          # Clustering Jupyter Notebook |
+- **`├──`** Nitish_Gautam_Clustering.pdf            # Clustering Report
+- **`├──`** Nitish_Gautam_EDA.ipynb                 # EDA Jupyter Notebook
+- **`├──`** Nitish_Gautam_EDA.pdf                   # Business insights Report
+- **`├──`** Nitish_Gautam_Lookalike.csv             # Lookalike csv file
+- **`├──`** Nitish_Gautam_Lookalike.ipynb           # Lookalike Jupyter Notebook
+- **`└──`** README.md                               # Project documentation
 
 
 
