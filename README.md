@@ -6,6 +6,7 @@
 
 ## Repository Structure
 The repository consists of a single main branch and the following files and folders:
+<pre>
 - **`├──`** Nitish_Gautam_Clustering.ipynb          # Clustering Jupyter Notebook |
 - **`├──`** Nitish_Gautam_Clustering.pdf            # Clustering Report
 - **`├──`** Nitish_Gautam_EDA.ipynb                 # EDA Jupyter Notebook
@@ -13,6 +14,6 @@ The repository consists of a single main branch and the following files and fold
 - **`├──`** Nitish_Gautam_Lookalike.csv             # Lookalike csv file
 - **`├──`** Nitish_Gautam_Lookalike.ipynb           # Lookalike Jupyter Notebook
 - **`└──`** README.md                               # Project documentation
-
+</pre>
 
 
